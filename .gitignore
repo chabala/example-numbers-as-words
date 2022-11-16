@@ -1,0 +1,16 @@
+target
+.classpath
+.project
+.settings
+.idea
+.shelf
+*.ipr
+*.iws
+*.iml
+*.ids
+*.class
+
+*.jar
+*.war
+*.ear
+
